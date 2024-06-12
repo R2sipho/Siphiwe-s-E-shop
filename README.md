@@ -3,7 +3,7 @@ Welcome to Siphiwe's e-shop! This is an online platform where you can browse and
 
 Deployed Site: Siphiwe's e-shop
 Final Project Blog Article: Siphiwe's e-shop: Revolutionizing Online Shopping
-Author(s) LinkedIn: Siphiwe Mthembu
+Author(s) LinkedIn: Siphiwe Ngwenya
 Installation
 To run Siphiwe's e-shop locally, follow these steps:
 
